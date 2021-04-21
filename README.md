@@ -35,6 +35,12 @@ We use a [Dataset](https://drive.google.com/drive/u/0/folders/107Xj6pUqVRFFh4lYd
 - Setting up the Python Environment with dependencies:
 
         pip install -r requirements.txt
+        
+- Running the test file:
+        
+        python3 test.py
+        --img='path/to/image.jpeg' 
+        --model='path/to/base_model.h5' 
 
 ### Results:
 Our Model Predictions:<br />
